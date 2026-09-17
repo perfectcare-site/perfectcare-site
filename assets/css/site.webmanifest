@@ -1,9 +1,0 @@
-{
-  "name": "퍼펙트케어",
-  "short_name": "퍼펙트케어",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0B1F33",
-  "icons": []
-}
